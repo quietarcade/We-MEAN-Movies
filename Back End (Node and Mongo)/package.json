@@ -1,0 +1,24 @@
+{
+  "name": "b2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "@types/auth0-js": "^8.11.11",
+    "angular": "^1.7.8",
+    "angular-paging": "^2.2.2",
+    "auth0-js": "^9.10.1",
+    "express": "^4.16.4",
+    "jw-angular-pagination": "^1.0.5",
+    "mongodb": "^2.2.33",
+    "mongoose": "^5.4.20",
+    "ngx-pagination": "^3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

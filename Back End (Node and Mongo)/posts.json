@@ -1,0 +1,45 @@
+[
+  {
+    "PostID" : 1,
+    "Title" : "My first post",
+    "Content" : "Some content",
+    "Comments" : [
+       { 
+         "CommentID" : 1,
+         "Content" : "Commenting on your first post"            
+       },
+       { 
+         "CommentID" : 2,
+         "Content" : "Also on your first post"            
+       }
+    ],
+    "Author" : {
+      "UserId" : 1,
+      "DisplayName" : "Adrian Moore"
+    }
+  },
+  {
+    "PostID" : 2,
+    "Title" : "My second post",
+    "Content" : "Some content",
+    "Comments" : [
+       { 
+         "CommentID" : 3,
+         "Content" : "Commenting on your second post"            
+       }
+    ] ,
+    "Author" : {
+      "UserId" : 1,
+      "DisplayName" : "Adrian Moore"
+    }
+  },
+  {
+    "PostID" : 3,
+    "Title" : "My third post",
+    "Content" : "Some content" ,
+    "Author" : {
+      "UserId" : 2,
+      "DisplayName" : "Therese Charles"
+    }
+  }
+]
