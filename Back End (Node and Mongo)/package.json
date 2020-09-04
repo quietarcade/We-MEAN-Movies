@@ -10,7 +10,7 @@
     "auth0-js": "^9.10.1",
     "express": "^4.16.4",
     "jw-angular-pagination": "^1.0.5",
-    "mongodb": "^2.2.33",
+    "mongodb": "^3.1.13",
     "mongoose": "^5.4.20",
     "ngx-pagination": "^3.2.1"
   },
